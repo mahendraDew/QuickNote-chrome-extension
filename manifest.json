@@ -1,0 +1,18 @@
+{
+    "name": "QuickNote",
+    "version": "1.0.0",
+    "description": "A simple note-taking extension for Chrome.",
+    "manifest_version": 3,
+    "icons": {
+        "128": "logo.png"
+    },
+    "author": "Mahendra Dewangan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "QuickNote",
+        "default_icon": "logo.png"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
