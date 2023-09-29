@@ -8,7 +8,7 @@
     },
     "author": "Mahendra Dewangan",
     "action": {
-        "default_popup": "index.html",
+        "default_popup": "popup.html",
         "default_title": "QuickNote",
         "default_icon": "logo.png"
     },
